@@ -1,2 +1,2 @@
 # data-analysis
-some sample and data analysis concept
+some samples and data analysis concepts
